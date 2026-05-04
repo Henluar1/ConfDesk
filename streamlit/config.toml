@@ -1,0 +1,8 @@
+[theme]
+base="light"
+primaryColor="#134B8A"
+backgroundColor="#F4F6F9"
+# Un grigio neutro per i campi di testo e i form
+secondaryBackgroundColor="#E8ECF1"
+textColor="#212529"
+font="sans serif"
