@@ -170,8 +170,8 @@ pg = st.navigation({
         st.Page("pages/08_Risorse.py", title="Risorse & Kit", icon="📂"),
     ],
     "Impostazioni": [
-        st.Page("pages/09_Configurazione.py", title="Configurazione", icon="⚙️"),
-        st.Page("pages/13_Supporto_IT.py", title="Supporto Tecnico", icon="🛠️"),
-    ]
+    st.Page("pages/09_Impostazioni.py", title="Configurazione", icon="⚙️"),
+    st.Page("pages/13_Supporto_IT.py", title="Supporto Tecnico", icon="🛠️"),
+]
 })
 pg.run()
