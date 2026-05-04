@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "Confindustria",
+			"path": "."
+		},
+		{
+			"name": "config",
+			"path": "../../../Downloads/memberflow-main/config"
+		},
+		{
+			"name": "loghi_soci",
+			"path": "../../../Downloads/memberflow-main/loghi_soci"
+		},
+		{
+			"name": "modules",
+			"path": "../../../Downloads/memberflow-main/modules"
+		},
+		{
+			"name": "pages",
+			"path": "../../../Downloads/memberflow-main/pages"
+		}
+	],
+	"settings": {}
+}
