@@ -11,7 +11,7 @@ folium
 streamlit-folium
 
 # --- PDF GENERATION & IMAGES ---
-fpdf    <--- AGGIUNGI QUESTA RIGA
+fpdf
 reportlab
 Pillow
 
